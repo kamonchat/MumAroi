@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Mum Aroi</string>
+
+
+    <string name="to_type">ดูที่ Type ที่เลือก</string>
+    <string name="to_all">ดูทั้งหมด</string>
 </resources>

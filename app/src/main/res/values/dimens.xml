@@ -4,9 +4,10 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
 
 
-    <dimen name="logo">150dp</dimen>
+    <dimen name="logo">180dp</dimen>
     <dimen name="icon">130dp</dimen>
     <dimen name="h1">35sp</dimen>
     <dimen name="h2">25sp</dimen>
+    <dimen name="spinner">220dp</dimen>
 
 </resources>
