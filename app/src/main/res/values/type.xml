@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="type">
+
+
+        <item>ชาบู-สุกี้/ปิ้งย่าง</item>
+        <item>ข้าวต้ม/โจ๊ก</item>
+        <item>สเต็ก</item>
+        <item>ก๋วยเตี๋ยว</item>
+        <item>ส้มตำ</item>
+        <item>เครื่องดื่ม/เบเกอรี่</item>
+    </string-array>
+</resources>
