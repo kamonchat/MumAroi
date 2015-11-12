@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="my_data">
+
+        <item>insert into restaurantTABLE VALUES (null,'ชาบู-สุกี้/ปิ้งย่าง', 'Shabu Indy', 0, 'Detail1', 'Potenial1', 13.80511, 100.0906 , 'Remark1' );</item>
+        <item>insert into restaurantTABLE VALUES (null,'ข้าวต้ม/โจ๊ก', 'ข้าวต้มอ้วน', 1, 'Detail1', 'Potenial1', 13.81635, 100.0508, 'Remark1' );</item>
+        <item>insert into restaurantTABLE VALUES (null,'สเต็ก', 'สเต็กลุง', 2, 'Detail1', 'Potenial1', 13.819525, 100.052181, 'Remark1' );</item>
+        <item>insert into restaurantTABLE VALUES (null,'ก๋วยเตี๋ยว', ' ก๋วยเตี๋ยวต้มยำโบราณ ร้านเปลว', 3, 'Detail1', 'Potenial1', 13.84055, 100.04308, 'Remark1' );</item>
+        <item>insert into restaurantTABLE VALUES (null,'ส้มตำ', 'ลาบยโย', 4, 'Detail1', 'Potenial1', 13.8196, 100.05339, 'Remark1' );</item>
+        <item>insert into restaurantTABLE VALUES (null,'เครื่องดื่ม/เบเกอรี่', 'Way Coffee', 5, 'Detail1', 'Potenial1', 13.81305, 100.04568, 'Remark1' );</item>
+        <item>insert into restaurantTABLE VALUES (null,'ซีฟู้ด', '888ซีฟู๊ต บุฟเฟ่ต์ ', 6, 'Detail1', 'Potenial1', 13.81268, 100.06603, 'Remark1' );</item>
+
+    </string-array>
+
+</resources>
+
