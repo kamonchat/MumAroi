@@ -18,7 +18,7 @@ public class MyOpenHelper extends SQLiteOpenHelper {
             "Type text, " +
             "Name text, " +
             "Image integer, " +
-            "Detait text, " +
+            "Detail text, " +
             "Potential text, " +
             "Lat double, " +
             "Lng double, " +
