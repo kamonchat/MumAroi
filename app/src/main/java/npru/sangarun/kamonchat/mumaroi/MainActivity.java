@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private ManageTABLE objManageTABLE;
     private Spinner typeSpinner;
     private Button toTypeBotton, toAllBotton;
-    private int indexAnInt;
+    private int indexAnInt, spinnerAnInt;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -61,13 +61,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         typeSpinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
-                indexAnInt = position + 1;
+                spinnerAnInt = position + 1;
 
             }
 
             @Override
             public void onNothingSelected(AdapterView<?> parent) {
-                indexAnInt = 1;
+                spinnerAnInt = 1;
 
             }
         });
@@ -80,9 +80,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         switch (v.getId()) {
             case R.id.button:
-                indexAnInt = 0;
+                indexAnInt = spinnerAnInt;
                 break;
             case R.id.button2:
+                indexAnInt =  0;
                 break;
             default:
                 indexAnInt =  0;
