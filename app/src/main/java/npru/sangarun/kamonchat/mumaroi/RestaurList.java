@@ -99,6 +99,50 @@ public class RestaurList extends AppCompatActivity {
             case 6:
                 intResult = R.drawable.food7;
                 break;
+            case 7:
+                intResult = R.drawable.food8;
+                break;
+            case 8:
+                intResult = R.drawable.food9;
+                break;
+            case 9:
+                intResult = R.drawable.food10;
+                break;
+            case 10:
+                intResult = R.drawable.food11;
+                break;
+            case 11:
+                intResult = R.drawable.food12;
+                break;
+            case 12:
+                intResult = R.drawable.food13;
+                break;
+            case 13:
+                intResult = R.drawable.food14;
+                break;
+            case 14:
+                intResult = R.drawable.food15;
+                break;
+            case 15:
+                intResult = R.drawable.food16;
+                break;
+            case 16:
+                intResult = R.drawable.food17;
+                break;
+            case 17:
+                intResult = R.drawable.food18;
+                break;
+            case 18:
+                intResult = R.drawable.food19;
+                break;
+            case 19:
+                intResult = R.drawable.food20;
+                break;
+            case 20:
+                intResult = R.drawable.food21;
+                break;
+
+
             default:
                 intResult = R.drawable.food1;
                 break;
