@@ -6,8 +6,8 @@
 
     <dimen name="logo">180dp</dimen>
     <dimen name="icon">130dp</dimen>
-    <dimen name="h1">35sp</dimen>
-    <dimen name="h2">25sp</dimen>
+    <dimen name="h1">30sp</dimen>
+    <dimen name="h2">15sp</dimen>
     <dimen name="spinner">220dp</dimen>
     <dimen name="heigh">100dp</dimen>
 

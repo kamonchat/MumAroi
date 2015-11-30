@@ -37,6 +37,7 @@
             android:layout_width="@dimen/spinner"
             android:layout_height="wrap_content"
             android:id="@+id/spinner" />
+
     </LinearLayout>
 
     <LinearLayout
@@ -59,4 +60,5 @@
             android:id="@+id/button2"
             android:layout_weight="1" />
     </LinearLayout>
+
 </RelativeLayout>
