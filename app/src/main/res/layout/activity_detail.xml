@@ -38,17 +38,19 @@
         <TextView
             android:layout_width="@dimen/spinner"
             android:layout_height="wrap_content"
-            android:text="Detail"
+            android:text="@string/Detail_1"
             android:id="@+id/textView4"
             android:layout_gravity="left|center_vertical"
-            android:layout_marginLeft="60dp" />
+            android:layout_marginLeft="60dp"
+            android:textSize="@dimen/h2" />
 
         <ScrollView
             android:layout_width="@dimen/spinner"
             android:layout_height="@dimen/heigh"
             android:id="@+id/scrollView"
             android:layout_gravity="center_horizontal"
-            android:background="#82ffffff" >
+            android:background="#82ffffff"
+            android:fillViewport="true">
 
             <TextView
                 android:layout_width="wrap_content"
@@ -62,10 +64,11 @@
         <TextView
             android:layout_width="@dimen/spinner"
             android:layout_height="wrap_content"
-            android:text="Detail"
+            android:text="@string/Detail_2"
             android:id="@+id/textView5"
             android:layout_gravity="left|center_vertical"
-            android:layout_marginLeft="60dp" />
+            android:layout_marginLeft="60dp"
+            android:textSize="@dimen/h2" />
 
         <ScrollView
             android:layout_width="@dimen/spinner"
@@ -93,14 +96,15 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="map"
+            android:text="@string/map"
             android:id="@+id/button3"
-            android:layout_weight="1" />
+            android:layout_weight="1"
+            android:allowUndo="true" />
 
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="remark"
+            android:text="@string/remark"
             android:id="@+id/button4"
             android:layout_weight="1" />
     </LinearLayout>
