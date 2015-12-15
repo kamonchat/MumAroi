@@ -88,21 +88,21 @@ public class RestaurList extends AppCompatActivity {
                 }   // while
 
                 break;
-            case 1:
+            case 1:// ร้านอาหาร
                 break;
-            case 2:
+            case 2:// ชาบู-สุกี้
                 break;
-            case 3:
+            case 3:// สเต็ก
                 break;
-            case 4:
+            case 4:// เครื่องดิ่ม
                 break;
-            case 5:
+            case 5:// อาหารจานเดียว
                 break;
-            case 6:
+            case 6:// ปิ้งย่าง
                 break;
-            case 7:
+            case 7:// ซีฟู้ด
                 break;
-            case 8:
+            case 8:// อื่นๆ
                 break;
         }   //switch
 
