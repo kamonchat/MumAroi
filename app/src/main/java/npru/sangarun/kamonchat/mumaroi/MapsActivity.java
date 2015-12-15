@@ -60,5 +60,12 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         //Create Center Map
         mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(centerLatLng, 16));
 
+        //Create Marker for shop
+        mMap.addMarker(new MarkerOptions()
+        .position(centerLatLng)
+        .title(centerString));
+
+
+
     }   // onMapReady
 }   // Main Class
