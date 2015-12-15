@@ -22,7 +22,7 @@
             android:id="@+id/txtListName"
             android:textSize="@dimen/h1"
             android:textStyle="bold"
-            android:textColor="@color/whith" />
+            android:textColor="@color/colorAccent" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -30,7 +30,7 @@
             android:text="New Text"
             android:id="@+id/txtListType"
             android:textSize="@dimen/h2"
-            android:textColor="@color/whith" />
+            android:textColor="@color/colorAccent" />
     </LinearLayout>
 
 </LinearLayout>
