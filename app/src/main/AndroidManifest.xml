@@ -15,7 +15,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name=".MainActivity" >
+        <activity android:name=".SplashScreen" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -43,6 +43,8 @@
             android:label="@string/title_activity_maps" >
         </activity>
         <activity android:name=".EditRemarkActivity" >
+        </activity>
+        <activity android:name=".MainActivity" >
         </activity>
     </application>
 
